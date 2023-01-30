@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Ann 👋</h1>
+<h2 align="center">Back-end java developer</h2>
 
 <h3 align="center">💼 Education</h3>
 
