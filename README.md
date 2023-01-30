@@ -27,5 +27,5 @@
 <br>
 
 ## 🤝 Connect with me
-<a href="https://vk.com/nonestbonum"><img align="left" src="https://github.com/nonestbonum/nonestbonum/blob/main/free-png.ru-306-340x340.png" alt="VK" width="30px"/></a>
-<a href="https://instagram.com/mrbrann"><img align="left" src="https://github.com/nonestbonum/nonestbonum/blob/main/instagram.png" alt="Instagram" width="30px"/></a>
+<a href="https://vk.com/nonestbonum"><img align="left" src="https://github.com/nonestbonum/nonestbonum/blob/main/free-png.ru-306-340x340.png" alt="VK" width="45px"/></a>
+<a href="https://instagram.com/mrbrann"><img align="left" src="https://github.com/nonestbonum/nonestbonum/blob/main/instagram.png" alt="Instagram" width="45px"/></a>
