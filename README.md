@@ -6,6 +6,11 @@
 <div align="center">Bachelor of applied Mathematics and Informatics</div>
 
 ## Skills
+- Java core
+- Spring
+- PostgreSQL
+- HTML
+- CSS
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
