@@ -7,8 +7,10 @@
 
 ## Skills
 - Java core
+- OOP
 - Spring
 - PostgreSQL
+- Hibernate
 - HTML
 - CSS
 - 🔭 I’m currently working on ...
