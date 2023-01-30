@@ -19,10 +19,11 @@
 ## 🔭 I’m currently working on
 
 - Library web-application
-
 <br>
+
 ## 🌱 I’m currently learning
 
 - Microservices
 <br>
+
 ## 📫 How to reach me:
