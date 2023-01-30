@@ -2,7 +2,7 @@
 
 <h3 align="center">💼 Education</h3>
 
-<div alogn="center">Bachelor of applied Mathematics and Informatics</div>
+<div align="center">Bachelor of applied Mathematics and Informatics</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
