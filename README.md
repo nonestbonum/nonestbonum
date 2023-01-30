@@ -16,11 +16,13 @@
 - CSS
 <br>
 
-##🔭 I’m currently working on
+## 🔭 I’m currently working on
+
 - Library web-application
 
 <br>
-##🌱 I’m currently learning
+## 🌱 I’m currently learning
+
 - Microservices
 <br>
 ## 📫 How to reach me:
