@@ -5,7 +5,7 @@
 
 <div align="center">Bachelor of applied Mathematics and Informatics</div>
 
-## Skills
+## 📎 Skills
 - Java core
 - OOP
 - Spring
@@ -13,12 +13,12 @@
 - Hibernate
 - HTML
 - CSS
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+## 🔭 I’m currently working on
+- Library web-application
+
+<br>
+## 🌱 I’m currently learning
+- Microservices
+<br>
+## 📫 How to reach me:
