@@ -5,7 +5,8 @@
 
 <div align="center">Bachelor of applied Mathematics and Informatics</div>
 
-##📎 Skills
+## 📎 Skills
+
 - Java core
 - OOP
 - Spring
