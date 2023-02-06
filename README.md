@@ -14,6 +14,7 @@
 - Hibernate
 - HTML
 - CSS
+- A little bit JS
 <br>
 
 ## 🔭 I’m currently working on
